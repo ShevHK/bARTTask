@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\bART\bART.Creations\bin\Debug\net5.0\bART.Creations.deps.json
+C:\Users\PC\source\repos\bART\bART.Creations\bin\Debug\net5.0\bART.Creations.dll
+C:\Users\PC\source\repos\bART\bART.Creations\bin\Debug\net5.0\ref\bART.Creations.dll
+C:\Users\PC\source\repos\bART\bART.Creations\bin\Debug\net5.0\bART.Creations.pdb
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.AssemblyInfo.cs
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.dll
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\ref\bART.Creations.dll
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.pdb
+C:\Users\PC\source\repos\bART\bART.Creations\bin\Debug\net5.0\bART.Model.dll
+C:\Users\PC\source\repos\bART\bART.Creations\bin\Debug\net5.0\bART.Model.pdb
+C:\Users\PC\source\repos\bART\bART.Creations\obj\Debug\net5.0\bART.Creations.csproj.CopyComplete
